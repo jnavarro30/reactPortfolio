@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/reactPortfolio/static/css/main.e90ebc4e.chunk.css",
+    "main.js": "/reactPortfolio/static/js/main.00da88d8.chunk.js",
+    "main.js.map": "/reactPortfolio/static/js/main.00da88d8.chunk.js.map",
+    "runtime-main.js": "/reactPortfolio/static/js/runtime-main.c3726186.js",
+    "runtime-main.js.map": "/reactPortfolio/static/js/runtime-main.c3726186.js.map",
+    "static/js/2.c717dd00.chunk.js": "/reactPortfolio/static/js/2.c717dd00.chunk.js",
+    "static/js/2.c717dd00.chunk.js.map": "/reactPortfolio/static/js/2.c717dd00.chunk.js.map",
+    "static/js/3.6e531915.chunk.js": "/reactPortfolio/static/js/3.6e531915.chunk.js",
+    "static/js/3.6e531915.chunk.js.map": "/reactPortfolio/static/js/3.6e531915.chunk.js.map",
+    "index.html": "/reactPortfolio/index.html",
+    "static/css/main.e90ebc4e.chunk.css.map": "/reactPortfolio/static/css/main.e90ebc4e.chunk.css.map",
+    "static/js/2.c717dd00.chunk.js.LICENSE.txt": "/reactPortfolio/static/js/2.c717dd00.chunk.js.LICENSE.txt",
+    "static/media/appHangman.c73593a3.JPG": "/reactPortfolio/static/media/appHangman.c73593a3.JPG",
+    "static/media/appMusicPlayer.811bed73.JPG": "/reactPortfolio/static/media/appMusicPlayer.811bed73.JPG",
+    "static/media/appPokedex.cff2324d.JPG": "/reactPortfolio/static/media/appPokedex.cff2324d.JPG",
+    "static/media/appQuiz.87213558.JPG": "/reactPortfolio/static/media/appQuiz.87213558.JPG",
+    "static/media/appTodoList.66f65706.JPG": "/reactPortfolio/static/media/appTodoList.66f65706.JPG",
+    "static/media/edabitHome.0a1567ff.JPG": "/reactPortfolio/static/media/edabitHome.0a1567ff.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c3726186.js",
+    "static/js/2.c717dd00.chunk.js",
+    "static/css/main.e90ebc4e.chunk.css",
+    "static/js/main.00da88d8.chunk.js"
+  ]
+}
