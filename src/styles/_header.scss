@@ -1,0 +1,27 @@
+.header {
+    text-align: center;
+    &__title {
+        background: $banner;
+        color: white;
+        padding: 0.5rem;
+        font-size: 2rem;
+    }
+}
+
+// responsive 
+@media (min-width: 700px) {
+    .header {
+        &__title {
+            font-size: 3rem;
+        }
+    }
+}
+
+@media (min-width: 1000px) {
+    .header {
+        &__title {
+            font-size: 4rem;
+        }
+    }
+}
+
